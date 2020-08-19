@@ -98,12 +98,12 @@ header .profile-image:hover {
 .subtitle {
   font-size: 0.9em;
   font-weight: 100;
-  margin-block-start: 0em;
+  margin-top: 0em;
   color: gray;
 }
 
-.marg-blk-btm-0 {
-  margin-block-end: 0px;
+.marg-btm-0 {
+  margin-bottom: 0em;
 }
 
 .tag {
